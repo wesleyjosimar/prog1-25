@@ -1,8 +1,46 @@
-﻿@{
+﻿@model Variaveis
+
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Bem-vindos</h1>
+    <p>
+        o Valor de <b>userCount</b> é <i>@Model.userCount</i>
+    </p>
+    <p>
+    o Valor de <b>totalCount</b> é <i>@Model.totalCount</i>
+    </p>
+    <p>
+        O Valor de <b>Min Byte</b> é: <i>@byte.MinValue</i>
+    </p>
+    <p>
+        O Valor de <b>Max Byte</b> é: <i>@byte.MaxValue</i>
+    </p>
+    <p>
+        O Valor de <b>Min Short</b> é: <i>@short.MinValue</i>
+    </p>
+    <p>
+        O Valor de <b>Max Short</b> é: <i>@short.MaxValue</i>
+    </p>
+    <p>
+        O Valor de <b>Min Int</b> é: <i>@int.MinValue</i>
+    </p>
+    <p>
+        O Valor de <b>Max Int</b> é: <i>@int.MaxValue</i>
+    </p>
+    <p>
+        O Valor de <b>Min Uint</b> é: <i>@uint.MinValue</i>
+    </p>
+    <p>
+        O Valor de <b>Max Uint</b> é: <i>@uint.MaxValue</i>
+    </p>
+    <p>
+        O Valor de <b>Min Long</b> é: <i>@long.MinValue</i>
+    </p>
+    <p>
+        O Valor de <b>Max Long</b> é: <i>@long.MaxValue</i>
+    </p>
 </div>
