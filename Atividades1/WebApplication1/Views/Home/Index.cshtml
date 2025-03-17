@@ -1,0 +1,36 @@
+﻿﻿
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cifra de César</h1>
+
+    <div class="index-text-container">
+        <p class="main-text">
+            <a>
+                Vimos os princípios básicos da criptografia para entendermos a diferença entre o HTTP e o HTTPS, sabemos que é uma técnica antiga
+                e que Júlio César tinha a sua própria técnica de chave criptográfica. De certa forma, bem simples se comparada às técnicas atuais.
+
+                Sendo assim, escolha um número chave e envie uma string via POST para sua aplicação web, criptografe-a utilizando a Cifra de César
+                e retorne um response com o texto criptografado. O programa deve ser capaz de receber o texto criptografado e decodificar a mensagem,
+                pois o mesmo conhece a chave fixada.
+            </a>
+            <br />
+            <strong>
+                Seja você um general de Júlio César e mostre que é capaz de se comunicar com o grande líder.
+                Ave César!
+            </strong>
+            <br />
+        </p>
+
+        <div class="cypher-button-container">
+            <a class="button" href="@Url.Action("EncryptionDecryption", "Home")">Página das Cifras</a>
+        </div>
+
+    </div>
+
+    <img src="~/Images/image.PNG" />
+
+</div>

@@ -1,0 +1,26 @@
+﻿@model WebApplication1.Models.EncryptionDecryption;
+
+@{
+    ViewData["Title"] = "EncryptionDecryption";
+}
+
+<h1 class="cypherPage">Página das Cifras</h1>
+
+
+<form asp-action="EncryptionDecryption" class="encryptForm" method="post">
+    <h2 class="encryptTitle">Encriptar Mensagem</h2>
+    <input type="text" asp-for="userInput" placeholder="Digite frase para Encriptar" />
+    <input type="number" asp-for="shift" placeholder="Digite valor para mudar Letras" />
+    <button class="cypherButton" type="submit" name="action" value="Encrypt">Encriptar</button>
+    <h3>Mensagem Encriptada: @Model.encryptedText</h3>
+</form>
+
+
+<form asp-action="EncryptionDecryption" class="decryptForm" method="post">
+    <h2 class="decryptTitle">Descriptar Mensagens</h2>
+    <input type="text" asp-for="encryptedText" placeholder="Digite frase para Descriptar" />
+    <input type="number" asp-for="shift" placeholder="Digite valor para mudar Letras" />
+    <button class="cypherButton" type="submit" name="action" value="Decrypt">Decrypt</button>
+    <h2>Mensagem Descriptada: @Model.decryptedText</h2>
+</form>
+
