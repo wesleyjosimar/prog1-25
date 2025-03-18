@@ -1,0 +1,21 @@
+﻿@model numtowords.Models.NumberModel
+
+@{
+    ViewData["Title"] = "Conversor de Números";
+}
+
+<h2>Conversor de Números</h2>
+
+<form asp-action="ConvertNumber" asp-controller="Home" method="post">
+    <label for="number">Digite um número:</label>
+    <input type="number" asp-for="Number" required />
+    <button type="submit">Converter</button>
+</form>
+
+@if (Model != null && !string.IsNullOrEmpty(Model.NumberInWords))
+{
+    <h3>Resultado:</h3>
+    <p><strong>Número:</strong> @Model.Number</p>
+    <p><strong>Por extenso:</strong> @Model.NumberInWords</p>
+    <p><strong>Categoria:</strong> @Model.Category</p>
+}
