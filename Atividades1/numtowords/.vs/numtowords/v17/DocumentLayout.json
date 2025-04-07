@@ -42,8 +42,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA/wBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:25:05.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:25:05.575Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T00:22:49.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:22:49.622Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "Models\\NumberConverter.cs",
               "ToolTip": "C:\\Programacao1_2025\\Atividades1\\numtowords\\Models\\NumberConverter.cs",
               "RelativeToolTip": "Models\\NumberConverter.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:21:56.61Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Models\\NumberModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:21:02.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:21:02.996Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numtowords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c9f515d1bc973b765a07834464994871b70b09e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67054f7357e356a249a33e82ce9244da48d7b27c")]
 [assembly: System.Reflection.AssemblyProductAttribute("numtowords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numtowords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
