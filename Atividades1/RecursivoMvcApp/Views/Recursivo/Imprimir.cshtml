@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Imprimir Decrescente";
+}
+
+<h2>Imprimir números de N até 1</h2>
+
+<form method="post">
+    <label>Digite um número:</label>
+    <input type="number" name="n" required />
+    <button type="submit">Imprimir</button>
+</form>
+
+@if (ViewBag.Resultado != null)
+{
+    <p><strong>Resultado:</strong> @ViewBag.Resultado</p>
+}

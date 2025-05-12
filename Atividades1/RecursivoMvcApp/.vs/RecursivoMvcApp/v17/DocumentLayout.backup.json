@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\controllers\\recursivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:controllers\\recursivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\contarcaracteres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\contarcaracteres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\somar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\somar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\imprimir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\imprimir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\palindromo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\palindromo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:30:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:29:28.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:28:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Palindromo.cshtml",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Palindromo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recursivo\\Palindromo.cshtml",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Palindromo.cshtml",
+              "RelativeToolTip": "Views\\Recursivo\\Palindromo.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:26:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContarCaracteres.cshtml",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\ContarCaracteres.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recursivo\\ContarCaracteres.cshtml",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\ContarCaracteres.cshtml",
+              "RelativeToolTip": "Views\\Recursivo\\ContarCaracteres.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:26:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Somar.cshtml",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Somar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recursivo\\Somar.cshtml",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Somar.cshtml",
+              "RelativeToolTip": "Views\\Recursivo\\Somar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:25:44.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Imprimir.cshtml",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Imprimir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recursivo\\Imprimir.cshtml",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Imprimir.cshtml",
+              "RelativeToolTip": "Views\\Recursivo\\Imprimir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T00:25:14.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecursivoController.cs",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Controllers\\RecursivoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecursivoController.cs",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Controllers\\RecursivoController.cs",
+              "RelativeToolTip": "Controllers\\RecursivoController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:24:06.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

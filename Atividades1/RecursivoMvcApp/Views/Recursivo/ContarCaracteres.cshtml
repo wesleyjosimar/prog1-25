@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Imprimir Crescente";
+}
+
+<h2>Imprimir números de 1 até N</h2>
+
+<form method="post">
+    <label>Digite um número:</label>
+    <input type="number" name="n" required />
+    <button type="submit">Executar</button>
+</form>
+
+@if (ViewBag.Resultado != null)
+{
+    <p><strong>Resultado:</strong> @ViewBag.Resultado</p>
+}

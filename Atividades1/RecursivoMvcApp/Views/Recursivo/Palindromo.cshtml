@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Verificar Palíndromo";
+}
+
+<h2>Verificar se a palavra é um palíndromo</h2>
+
+<form method="post">
+    <label>Digite uma palavra:</label>
+    <input type="text" name="palavra" required />
+    <button type="submit">Verificar</button>
+</form>
+
+@if (ViewBag.Resultado != null)
+{
+    <p>
+        <strong>@ViewBag.Palavra</strong> é
+        @if (!(bool)ViewBag.Resultado)
+        {
+            <text>não </text>
+        }
+        um palíndromo.
+    </p>
+}
