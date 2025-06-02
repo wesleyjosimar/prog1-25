@@ -1,0 +1,24 @@
+﻿@model Modelo.Product
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-Center">
+    <h1>Cadastro de Produto</h1>
+    <div class="container">
+        <form id="formCustomer" method="post" asp-action="Create" asp-controller="Product">
+
+            <div class="row">
+                <div class="form-group">
+                    <label asp-for="@Model.ProductName">Nome:</label>
+                    <input type="text" class="form-control" asp-for="@Model.ProductName" />
+                </div>
+            </div>
+
+            <button id="bntCustomer" type="submit" class="btn btn-primary" value="Cadastrar">
+                Cadastrar
+            </button>
+        </form>
+    </div>
+</div>

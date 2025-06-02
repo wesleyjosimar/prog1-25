@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:controllers\\recursivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\palindromo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\palindromo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\contarcaracteres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\contarcaracteres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\imprimir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|c:\\programacao1_2025\\atividades1\\recursivomvcapp\\views\\recursivo\\palindromo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45051ED5-9738-4308-ABFB-0A412FA9D138}|RecursivoMvcApp.csproj|solutionrelative:views\\recursivo\\palindromo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,20 +49,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T00:30:11.794Z"
+              "$type": "Bookmark",
+              "Name": "ST:1310093269:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -74,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -86,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Palindromo.cshtml",
               "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Palindromo.cshtml",
               "RelativeDocumentMoniker": "Views\\Recursivo\\Palindromo.cshtml",
@@ -98,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ContarCaracteres.cshtml",
               "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\ContarCaracteres.cshtml",
               "RelativeDocumentMoniker": "Views\\Recursivo\\ContarCaracteres.cshtml",
@@ -110,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Somar.cshtml",
               "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Somar.cshtml",
               "RelativeDocumentMoniker": "Views\\Recursivo\\Somar.cshtml",
@@ -122,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Imprimir.cshtml",
               "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Views\\Recursivo\\Imprimir.cshtml",
               "RelativeDocumentMoniker": "Views\\Recursivo\\Imprimir.cshtml",
@@ -144,6 +136,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T00:24:06.92Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programacao1_2025\\Atividades1\\RecursivoMvcApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:30:11.794Z"
             }
           ]
         }
