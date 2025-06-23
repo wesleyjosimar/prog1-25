@@ -9,7 +9,7 @@ namespace Repository
 {
     public class CustomerRepository
     {
-        public Customer Retrive(int id)
+        public Customer Retrieve(int id)
         {
             foreach (Customer c in CustomerData.Customers)
                 if (c.Id == id)
@@ -17,7 +17,7 @@ namespace Repository
             return null!;
         }
 
-        public List<Customer> RetriveByName(string name)
+        public List<Customer> RetrieveByName(string name)
         {
             List<Customer> ret = new List<Customer>();
 
@@ -28,16 +28,16 @@ namespace Repository
             return ret;
         }
 
-        public List<Customer> RetriveAll()
+        public List<Customer> RetrieveAll()
         {
             return CustomerData.Customers;
         }
 
         public void Update(Customer newCustomer)
         {
-            Customer oldCustomer = Retrive(newCustomer.Id);
+            Customer oldCustomer = Retrieve(newCustomer.Id);
             oldCustomer.Name = newCustomer.Name;
-            oldCustomer.WordAddres = newCustomer.WordAddres;
+            oldCustomer.WorkAddres = newCustomer.WorkAddres;
             oldCustomer.HomeAddres = newCustomer.HomeAddres;
         }
 
@@ -54,7 +54,7 @@ namespace Repository
 
         public bool DeleteById(int id)
         {
-            Customer customer = Retrive(id);
+            Customer customer = Retrieve(id);
 
             if (customer != null)
                 return Delete(customer);

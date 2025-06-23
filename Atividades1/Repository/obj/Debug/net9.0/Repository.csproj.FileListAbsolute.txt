@@ -1,0 +1,16 @@
+C:\Programacao1_2025\Atividades1\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Programacao1_2025\Atividades1\Repository\bin\Debug\net9.0\Repository.dll
+C:\Programacao1_2025\Atividades1\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Programacao1_2025\Atividades1\Repository\bin\Debug\net9.0\Modelo.dll
+C:\Programacao1_2025\Atividades1\Repository\bin\Debug\net9.0\Modelo.pdb
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.sourcelink.json
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.dll
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Programacao1_2025\Atividades1\Repository\obj\Debug\net9.0\ref\Repository.dll

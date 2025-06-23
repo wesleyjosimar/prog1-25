@@ -1,0 +1,60 @@
+﻿@model Aula05Projeto.ViewModels.OrderViewModel
+
+@{
+    ViewData["Title"] = "Criar Pedido";
+}
+
+<div class="text-Center">
+    <h1>Cadastro de Pedido</h1>
+    <div class="container">
+        <form id="formOrder" method="post" asp-action="Create" asp-controller="Order">
+
+            <div class="row mb-2">
+                <div class="form-group">
+                    <label asp-for="@Model.CustomerId">Cliente:</label>
+                    <select type="text" asp-for="@Model.CustomerId">
+                        @foreach (var c in Model.Customers)
+                        {
+                            <option value"c.Id">@c.Name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-6">
+                    <h4>Item</h4>
+                </div>
+                <div class="col-2">
+                    <h4>Quantidade</h4>
+                </div>
+                <div class="col-2">
+                    <h4>Valor</h4>
+                </div>
+                <hr class="mt-4 mb-3"/>
+                @foreach (var p in Model.SelectedItems!)
+                {
+                    <div class="col-2">
+                        <input type="checkbox" value="@p.IsSelected" />
+                    </div>
+                    <div class="col-6">
+                        @p.OrderItem.Product!.ProductName
+                    </div>
+                    <div class="col-2">
+                        <input type="number" value="@p.OrderItem.Quantity" />
+                    </div>
+                    <div class="col-2">
+                        @{p.OrderItem.PurchasePrice = p.OrderItem.Product.CurrentPrice;}
+                        @p.OrderItem.PurchasePrice
+                    </div>
+                    <hr class="my-3"/>
+                }
+            </div>
+
+            <button id="bntCustomer" type="submit" class="btn btn-success" value="Cadastrar">
+                Cadastrar
+            </button>
+        </form>
+    </div>
+</div>

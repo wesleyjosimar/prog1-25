@@ -28,12 +28,15 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+FillCostumerData();
+
+FillProductData();
 
 app.Run();
 
 static void FillCostumerData()
 {
-    for (int i = 0; i < 10; i++)
+    for (int i = 1; i <= 10; i++)
     {
         Customer customer = new()
         {
@@ -52,5 +55,21 @@ static void FillCostumerData()
         };
 
         CustomerData.Customers.Add(customer);
+    }
+}
+
+static void FillProductData()
+{
+    for (int i = 1; i <= 10; i++)
+    {
+        Product product = new()
+        {
+            Id = i,
+            ProductName = $"Product {i}",
+            Description = $"Description Product {i}",
+            CurrentPrice = i
+        };
+
+        CustomerData.Products.Add(product);
     }
 }

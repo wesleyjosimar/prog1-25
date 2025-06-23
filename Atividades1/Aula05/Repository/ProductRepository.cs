@@ -10,14 +10,14 @@ namespace Repository
 {
     public class ProductRepository
     {
-        public Product Retrive(int id)
+        public Product Retrieve(int id)
         {
             foreach (Product p in CustomerData.Products)
                 if (p.Id == id)
                     return p;
             return null!;
         }
-        public List<Product> RetriveByName(string name)
+        public List<Product> RetrieveByName(string name)
         {
             List<Product> ret = new List<Product>();
 
@@ -28,14 +28,14 @@ namespace Repository
             return ret;
         }
 
-        public List<Product> RetriveAll()
+        public List<Product> RetrieveAll()
         {
             return CustomerData.Products;
         }
 
         public void Update(Product newProduct)
         {
-            Product oldProduct = Retrive(newProduct.Id);
+            Product oldProduct = Retrieve(newProduct.Id);
             oldProduct.ProductName = newProduct.ProductName;
             oldProduct.Description = newProduct.Description;
             oldProduct.CurrentPrice = newProduct.CurrentPrice;
@@ -54,7 +54,7 @@ namespace Repository
 
         public bool DeleteById(int id)
         {
-            Product product = Retrive(id);
+            Product product = Retrieve(id);
 
             if (product != null)
                 return Delete(product);

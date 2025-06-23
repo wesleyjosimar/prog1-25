@@ -1,5 +1,96 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model Modelo.Customer
+
+<div class="container justify-content-center">
+    <form id="formUpdate" method="post" asp-action="PostUpdate" asp-controller="Customer">
+        <div class="row">
+            <div class="col-6">
+                <div class="d-none">
+                    <label asp-for="@Model.Id">id</label>
+                    <input type="text" class="form-control" asp-for="@Model.Id" />
+                </div>
+                <p class="fs-3"><b>Id:</b>@Model.Id</p>
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.Name">Nome:</label>
+                <input type="text" class="form-control" asp-for="@Model.Name" />
+            </div>
+
+            <hr class="mt-4"/>
+
+            <h4>Home Address</h4>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.PostalCode">Código Postal</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.PostalCode" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.City">Cidade:</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.City" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.State">Estado</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.State" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.Country">País</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.Country" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.AddressType">Tipo de Endereço</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.AddressType" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.Street1">Rua 1</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.Street1" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.HomeAddres!.Street2">Rua 2</label>
+                <input type="text" class="form-control" asp-for="@Model.HomeAddres!.Street2" />
+            </div>
+
+            <hr class="mt-4 mb-3"/>
+
+            <h4>Work Address</h4>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.PostalCode">Código Postal</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.PostalCode" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.City">Cidade:</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.City" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.State">Estado</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.State" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.Country">País</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.Country" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.AddressType">Tipo de Endereço</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.AddressType" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.Street1">Rua 1</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.Street1" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.WorkAddres!.Street2">Rua 2</label>
+                <input type="text" class="form-control" asp-for="@Model.WorkAddres!.Street2" />
+            </div>
+
+            <hr class="my-4"/>
+
+            <div class="col-6">
+                <button id="bntCustomer" type="submit" class="btn btn-success float-end" value="Atualizar">
+                    Atualizar
+                </button>
+            </div>
+            <div class="col-6">
+                <a asp-action="Index" class="btn btn-outline-secondary" asp-controller="Customer">
+                    Voltar
+                </a>
+            </div>
+        </div>
+    </form>
+</div>

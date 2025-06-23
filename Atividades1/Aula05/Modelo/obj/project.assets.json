@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo Felicetti\\.nuget\\packages\\": {},
+    "C:\\Users\\windows\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj",
+      "projectUniqueName": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj",
       "projectName": "Modelo",
-      "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj",
-      "packagesPath": "C:\\Users\\Gustavo Felicetti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\obj\\",
+      "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj",
+      "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+      "outputPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gustavo Felicetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

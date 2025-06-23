@@ -1,0 +1,18 @@
+﻿<div class="container justify-content-center">
+    <form id="formUpdate" method="post" asp-action="ImportDelimitedFile" asp-controller="Product">
+        <div class="row">
+            <div class="col-4"></div>
+            <div class="col-3">
+                <input type="file" name="file" class="text-center" />
+            </div>
+            <div class="mt-3 col-6">
+                <button class="btn btn-success float-end" type="submit">Enviar</button>
+            </div>
+            <div class="mt-3 col-6">
+                <a asp-action="Index" class="btn btn-outline-secondary" asp-controller="Product">
+                    Voltar
+                </a>
+            </div>
+        </div>
+    </form>
+</div>

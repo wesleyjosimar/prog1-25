@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj": {}
+    "C:\\Programacao1_2025\\Atividades1\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj": {
+    "C:\\Programacao1_2025\\Atividades1\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj",
+        "projectUniqueName": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj",
         "projectName": "Aula05Projeto",
-        "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj",
-        "packagesPath": "C:\\Users\\Gustavo Felicetti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Aula05Projeto\\obj\\",
+        "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Aula05Projeto\\Aula05Projeto.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Aula05Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo Felicetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj": {
-                "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj"
+              "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj"
               },
-              "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Repository\\Repository.csproj"
+              "C:\\Programacao1_2025\\Atividades1\\Aula05\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Repository\\Repository.csproj"
               }
             }
           }
@@ -80,20 +80,20 @@
         }
       }
     },
-    "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj": {
+    "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj",
-        "packagesPath": "C:\\Users\\Gustavo Felicetti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\obj\\",
+        "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo Felicetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -146,20 +146,20 @@
         }
       }
     },
-    "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Repository\\Repository.csproj": {
+    "C:\\Programacao1_2025\\Atividades1\\Aula05\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Gustavo Felicetti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Repository\\obj\\",
+        "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo Felicetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -175,8 +175,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj": {
-                "projectPath": "C:\\Users\\Gustavo Felicetti\\Desktop\\unoesc\\Programação 1\\atividades\\Aula05\\Modelo\\Modelo.csproj"
+              "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Programacao1_2025\\Atividades1\\Aula05\\Modelo\\Modelo.csproj"
               }
             }
           }

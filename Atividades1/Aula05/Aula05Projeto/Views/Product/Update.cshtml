@@ -1,5 +1,41 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model Modelo.Product
+
+<div class="container justify-content-center">
+    <form id="formUpdate" method="post" asp-action="PostUpdate" asp-controller="Product">
+        <div class="row">
+            <div class="col-6">
+                <div class="d-none">
+                    <label asp-for="@Model.Id">id</label>
+                    <input type="text" class="form-control" asp-for="@Model.Id" />
+                </div>
+                <p class="fs-3"><b>Id:</b>@Model.Id</p>
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.ProductName">Nome do Produto:</label>
+                <input type="text" class="form-control" asp-for="@Model.ProductName" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.Description">Descrição:</label>
+                <input type="text" class="form-control" asp-for="@Model.Description" />
+            </div>
+            <div class="col-6">
+                <label asp-for="@Model.CurrentPrice">Preço Atual:</label>
+                <input type="text" class="form-control" asp-for="@Model.CurrentPrice" />
+            </div>
+
+
+            <hr class="my-4" />
+
+            <div class="col-6">
+                <button id="bntProduct" type="submit" class="btn btn-success float-end" value="Atualizar">
+                    Atualizar
+                </button>
+            </div>
+            <div class="col-6">
+                <a asp-action="Index" class="btn btn-outline-secondary" asp-controller="Product">
+                    Voltar
+                </a>
+            </div>
+        </div>
+    </form>
+</div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecursivoMvcApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95fcd32ef6287a029ed26eba0b20bd0c7e4ec57b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff95c197e690183f9f508dd92eea458dae2d98dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecursivoMvcApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecursivoMvcApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,8 +9,7 @@
       "Aula05Projeto/1.0.0": {
         "dependencies": {
           "Modelo": "1.0.0",
-          "Repository": "1.0.0",
-          "Aula05": "1.0.0.0"
+          "Repository": "1.0.0"
         },
         "runtime": {
           "Aula05Projeto.dll": {}
@@ -34,14 +33,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "Aula05/1.0.0.0": {
-        "runtime": {
-          "Aula05.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -58,11 +49,6 @@
     },
     "Repository/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Aula05/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -10,3 +10,74 @@ C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Modelo\obj\
 C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Modelo\obj\Debug\net9.0\refint\Modelo.dll
 C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Modelo\obj\Debug\net9.0\Modelo.pdb
 C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\Gustavo Felicetti\Desktop\unoesc\Programação 1\atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\gustavo.felicetti\Desktop\Unoesc\atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\Gustavo Felicetti\Desktop\Unoesc\Prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\gustavo.felicetti\Desktop\Unoesc\prog 1\atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\windows\Downloads\Prog01-2025-master (1)\Prog01-2025-master\atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Programacao1_2025\Atividades1\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
